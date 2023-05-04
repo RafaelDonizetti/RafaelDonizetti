@@ -21,5 +21,5 @@
   <a href = "https://steamcommunity.com/id/ittezinoD/" target:"_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 
-- 💻 Atualmente estudo Front-End 
+- 💻 Atualmente estundando Back-End em Java
 - 🎮 Tenho costume de jogar e ouvir muita música enquanto estou jogando ou quando estou praticando 
